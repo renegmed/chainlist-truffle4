@@ -5,7 +5,7 @@ module.exports = {
           ganache: {
                host: "127.0.0.1",
                port: 7545,
-               network_id: "5792" // Match any network id
+               network_id: "5793" // Match any network id
           },
           chainskills: {
             host: "localhost",
